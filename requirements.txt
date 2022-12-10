@@ -1,0 +1,13 @@
+redis==3.5.3
+construct==2.10.68
+pycryptodome==3.14.1
+pycryptodomex==3.9.7
+pyyaml==5.3.1
+pysctp==0.6.1
+jinja2
+sqlalchemy_utils
+sqlalchemy
+alchemyjsonschema
+flask
+flask_restx
+prometheus_client
